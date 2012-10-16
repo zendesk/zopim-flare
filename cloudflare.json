@@ -1,0 +1,48 @@
+{
+	"name": "Zopim Live Chat",
+	"description": "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!",
+	"category": "webmaster",
+	"version": "0.0.1",
+	"keywords": [
+		"webmaster"
+	],
+	"main": "./public/javascripts/zopim-flare.js",
+	"contributors":
+	[
+		{
+			"name": "Zopim Team",
+			"email": "developers@zopim.com"
+		},
+		{
+			"name": "Joshua Koo",
+			"email": "joshua@zopim.com"
+		}
+	],
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/zopim/zopim-flare.git"
+	},
+	"config":
+	{
+		"assets":
+		{
+			"logos":
+			{
+				"200px": "./public/images/zopimlogo-200.png",
+				"132px": "./public/images/zopimlogo-132.png"
+			},
+			"detail_page":
+			[
+				"./public/images/zopimbanner.png"
+			]
+		},
+		"details":
+		{
+			"Category": "Webmaster Tools",
+			"Language": "English, Russian, French, Danish, German, Japanese, Turkish, Persian, Portuguese",
+			"Restrictions": "None",
+			"Supporting": "<a href='http://www.zopim.com/'>zopim</a>"
+		}
+	}
+}
