@@ -1,7 +1,7 @@
 {
 	"name": "Zopim Live Chat",
 	"description": "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!",
-	"category": "webmaster",
+	"category": "live chat",
 	"version": "0.0.1",
 	"keywords": [
 		"webmaster"
@@ -39,7 +39,7 @@
 		},
 		"details":
 		{
-			"Category": "Webmaster Tools",
+			"Category": "Live Chat",
 			"Language": "English, Russian, French, Danish, German, Japanese, Turkish, Persian, Portuguese",
 			"Restrictions": "None",
 			"Supporting": "<a href='http://www.zopim.com/'>zopim</a>"
