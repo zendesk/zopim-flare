@@ -1,7 +1,7 @@
 {
 	"name": "Zopim Live Chat",
 	"description": "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!",
-	"version": "0.0.1a",
+	"version": "0.0.1b",
 	"category": "live chat",
 	 "account": {
 		"callback_url": "https://www.zopim.com/api/cloudflare/",
@@ -62,7 +62,7 @@
 		},
 		"details":
 		{
-			"Category": "Live Chat",
+			"Category": "live chat",
 			"Language": "English, Russian, French, Danish, German, Japanese, Turkish, Persian, Portuguese",
 			"Restrictions": "None",
 			"Supporting": "<a href='http://www.zopim.com/'>zopim</a>"
