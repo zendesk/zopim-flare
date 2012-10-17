@@ -1,10 +1,33 @@
 {
 	"name": "Zopim Live Chat",
 	"description": "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!",
+	"version": "0.0.1a",
 	"category": "live chat",
-	"version": "0.0.1",
+	 "account": {
+		"callback_url": "https://www.zopim.com/api/cloudflare/",
+		"user_fields": ["email"]
+	},
+	"billing": {
+		"type": "zone",
+		"plans":[
+			{
+				"name" : "Lite",
+				"price": "Free"
+			},
+			{
+				"name" : "Basic",
+				"price" : "14.00"
+			},
+			{
+				"name" : "Advanced",
+				"price" : "25.00"
+			},
+		]
+	},
 	"keywords": [
-		"webmaster"
+		"webmaster",
+		"live chat",
+		"support"
 	],
 	"main": "./public/javascripts/zopim-flare.js",
 	"contributors":
