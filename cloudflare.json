@@ -21,7 +21,7 @@
 			{
 				"name" : "Advanced",
 				"price" : "25.00"
-			},
+			}
 		]
 	},
 	"keywords": [
@@ -62,7 +62,7 @@
 		},
 		"details":
 		{
-			"Category": "live chat",
+			"Category": "Live Chat",
 			"Language": "English, Russian, French, Danish, German, Japanese, Turkish, Persian, Portuguese",
 			"Restrictions": "None",
 			"Supporting": "<a href='http://www.zopim.com/'>zopim</a>"
