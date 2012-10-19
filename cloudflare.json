@@ -1,7 +1,7 @@
 {
 	"name": "Zopim Live Chat",
 	"description": "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!",
-	"version": "0.0.1c",
+	"version": "0.0.1d",
 	"category": "live chat",
 	 "account": {
 		"callback_url": "https://cf.zopim.com/",
