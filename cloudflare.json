@@ -4,7 +4,7 @@
 	"version": "0.0.1c",
 	"category": "live chat",
 	 "account": {
-		"callback_url": "https://www.zopim.com/api/cloudflare/",
+		"callback_url": "https://cf.zopim.com/",
 		"user_fields": ["email"]
 	},
 	"billing": {
